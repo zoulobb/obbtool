@@ -1,5 +1,5 @@
 cd $HOME/obbtool
 chmod +x zoulobb
-chmod +x rc1
+chmod +x rc4
 chmod +x 走了
 ./走了
