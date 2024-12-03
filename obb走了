@@ -1,0 +1,4 @@
+cd $HOME/obbtool
+chmod +x zoulobb
+chmod +x 走了
+./走了
