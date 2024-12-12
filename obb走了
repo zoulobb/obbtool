@@ -1,0 +1,16 @@
+cd $HOME/obbtool
+chmod +x zoulobb
+chmod +x unlock
+chmod +x 菜单
+chmod +x etc/map_pak
+chmod +x map
+chmod +x 120
+chmod +x etc/repak
+chmod +x unlock
+chmod +x 型号
+chmod +x 走了.bms
+chmod +x 走了
+chmod +x 走了1.bms
+chmod +x etc/unpak
+chmod +x pak
+./菜单
